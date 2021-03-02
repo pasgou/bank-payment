@@ -22,7 +22,7 @@ msgstr ""
 #. module: account_payment_order_return
 #: model:ir.model.fields,field_description:account_payment_order_return.field_account_payment_line_create__include_returned
 msgid "Include move lines from returns"
-msgstr "Inclure les écritures depuis les retours"
+msgstr "Inclure les écritures depuis les avoirs"
 
 #. module: account_payment_order_return
 #: model:ir.model,name:account_payment_order_return.model_account_payment_line_create
